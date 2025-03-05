@@ -707,8 +707,8 @@
         </mxCell>
         <mxCell id="9ANXJDttO_LxsOfwun5v-40" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="156" y="1694" as="sourcePoint" />
-            <mxPoint x="-23" y="1605" as="targetPoint" />
+            <mxPoint x="222" y="1651" as="sourcePoint" />
+            <mxPoint x="43" y="1562" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
