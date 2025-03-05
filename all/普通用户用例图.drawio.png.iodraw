@@ -1317,7 +1317,7 @@
         <mxCell id="WFPaXe83kJKe6NwwF2LC-119" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;角色信息&lt;/span&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-95" y="-575" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WFPaXe83kJKe6NwwF2LC-126" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="WFPaXe83kJKe6NwwF2LC-126" value="管理" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-158" y="-351" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
