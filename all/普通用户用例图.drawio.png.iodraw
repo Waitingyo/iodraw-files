@@ -688,9 +688,6 @@
         <mxCell id="9ANXJDttO_LxsOfwun5v-28" value="显示信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-207" y="1819" width="100" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="9ANXJDttO_LxsOfwun5v-31" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="9ANXJDttO_LxsOfwun5v-20" target="9ANXJDttO_LxsOfwun5v-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="9ANXJDttO_LxsOfwun5v-33" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="9ANXJDttO_LxsOfwun5v-26" target="9ANXJDttO_LxsOfwun5v-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
