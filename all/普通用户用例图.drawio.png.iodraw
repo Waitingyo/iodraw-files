@@ -658,14 +658,14 @@
         <mxCell id="9ANXJDttO_LxsOfwun5v-20" value="输入账号密码" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-207" y="1427" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9ANXJDttO_LxsOfwun5v-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="9ANXJDttO_LxsOfwun5v-21" value="输入是否正确" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-200" y="1499" width="80" height="76" as="geometry" />
         </mxCell>
         <mxCell id="9ANXJDttO_LxsOfwun5v-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-242" y="2077" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9ANXJDttO_LxsOfwun5v-26" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="1671" width="100" height="46" as="geometry" />
+          <mxGeometry x="-210" y="1659" width="100" height="46" as="geometry" />
         </mxCell>
         <mxCell id="9ANXJDttO_LxsOfwun5v-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-217" y="1776" width="80" height="76" as="geometry" />
