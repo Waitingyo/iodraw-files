@@ -616,8 +616,18 @@
         <mxCell id="9ANXJDttO_LxsOfwun5v-5" value="个人中心" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="116" y="916" width="100" height="58" as="geometry" />
         </mxCell>
+        <mxCell id="9ANXJDttO_LxsOfwun5v-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="9ANXJDttO_LxsOfwun5v-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="324.5882352941178" y="1119.6470301011032" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9ANXJDttO_LxsOfwun5v-7" value="我的反馈" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="275" y="916" width="100" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="9ANXJDttO_LxsOfwun5v-17" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="9ANXJDttO_LxsOfwun5v-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6.941176470588289" y="1115.88234576057" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9ANXJDttO_LxsOfwun5v-8" value="我的订单" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-43" y="916" width="100" height="58" as="geometry" />
@@ -627,6 +637,9 @@
         </mxCell>
         <mxCell id="9ANXJDttO_LxsOfwun5v-14" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="116" y="1130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ANXJDttO_LxsOfwun5v-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="9ANXJDttO_LxsOfwun5v-9" target="9ANXJDttO_LxsOfwun5v-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
