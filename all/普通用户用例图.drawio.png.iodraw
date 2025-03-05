@@ -960,6 +960,13 @@
             <mxPoint x="280" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WFPaXe83kJKe6NwwF2LC-18" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="200" y="599" as="sourcePoint" />
+            <mxPoint x="280" y="599" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
