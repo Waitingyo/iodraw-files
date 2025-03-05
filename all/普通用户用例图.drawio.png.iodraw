@@ -1315,7 +1315,7 @@
           <mxGeometry x="194" y="-224" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WFPaXe83kJKe6NwwF2LC-119" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;角色信息&lt;/span&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-93" y="-285" width="100" height="40" as="geometry" />
+          <mxGeometry x="58" y="-574" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
