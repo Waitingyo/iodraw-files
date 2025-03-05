@@ -598,11 +598,20 @@
         <mxCell id="9ANXJDttO_LxsOfwun5v-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="116" y="742" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9ANXJDttO_LxsOfwun5v-6" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="9ANXJDttO_LxsOfwun5v-2" target="9ANXJDttO_LxsOfwun5v-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9ANXJDttO_LxsOfwun5v-2" value="登录" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="116" y="830" width="100" height="58" as="geometry" />
         </mxCell>
         <mxCell id="9ANXJDttO_LxsOfwun5v-5" value="个人中心" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="116" y="916" width="100" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="9ANXJDttO_LxsOfwun5v-7" value="个人中心" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="359" y="1018" width="100" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="9ANXJDttO_LxsOfwun5v-8" value="个人中心" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-132" y="1032" width="100" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
