@@ -704,10 +704,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9ANXJDttO_LxsOfwun5v-42" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="9ANXJDttO_LxsOfwun5v-42" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9ANXJDttO_LxsOfwun5v-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="156" y="1694" as="sourcePoint" />
-            <mxPoint x="206" y="1644" as="targetPoint" />
+            <mxPoint x="53" y="1579" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
