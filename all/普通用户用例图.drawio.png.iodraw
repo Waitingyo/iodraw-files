@@ -661,8 +661,8 @@
         <mxCell id="9ANXJDttO_LxsOfwun5v-21" value="输入是否正确" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-197" y="1497" width="80" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="9ANXJDttO_LxsOfwun5v-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-242" y="2077" width="100" height="60" as="geometry" />
+        <mxCell id="9ANXJDttO_LxsOfwun5v-25" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-207" y="1917" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9ANXJDttO_LxsOfwun5v-26" value="对电脑信息进行增删改查" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-207" y="1617" width="100" height="46" as="geometry" />
