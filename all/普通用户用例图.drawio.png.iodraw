@@ -1312,7 +1312,7 @@
           <mxGeometry x="30" y="-614" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WFPaXe83kJKe6NwwF2LC-119" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;角色信息&lt;/span&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-211" y="-611" width="100" height="40" as="geometry" />
+          <mxGeometry x="-221" y="-614" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WFPaXe83kJKe6NwwF2LC-159" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="378" y="-332" width="100" height="40" as="geometry" />
