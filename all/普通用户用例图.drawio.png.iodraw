@@ -1303,19 +1303,19 @@
           <mxGeometry x="-315" y="-332" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WFPaXe83kJKe6NwwF2LC-115" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;电脑信息&lt;/span&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-18" y="-425" width="100" height="40" as="geometry" />
+          <mxGeometry x="-6" y="-426" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WFPaXe83kJKe6NwwF2LC-116" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;订单&lt;/span&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-32" y="-300" width="100" height="40" as="geometry" />
+          <mxGeometry x="-18" y="-242" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WFPaXe83kJKe6NwwF2LC-117" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;反馈&lt;/span&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="145" y="-522" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WFPaXe83kJKe6NwwF2LC-118" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;电脑类型&lt;/span&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-26" y="-124" width="100" height="58" as="geometry" />
+          <mxGeometry x="-11" y="-120" width="100" height="58" as="geometry" />
         </mxCell>
         <mxCell id="WFPaXe83kJKe6NwwF2LC-119" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;角色信息&lt;/span&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-215" y="-499" width="100" height="40" as="geometry" />
+          <mxGeometry x="-202" y="-520" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WFPaXe83kJKe6NwwF2LC-159" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="346" y="-325" width="100" height="40" as="geometry" />
