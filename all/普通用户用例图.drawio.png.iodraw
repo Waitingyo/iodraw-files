@@ -1110,7 +1110,7 @@
         <mxCell id="WFPaXe83kJKe6NwwF2LC-51" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;订单&lt;/span&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="130" y="1628" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WFPaXe83kJKe6NwwF2LC-52" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;添加人&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="WFPaXe83kJKe6NwwF2LC-52" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;下单时间&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="363" y="1546" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WFPaXe83kJKe6NwwF2LC-53" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;租赁金额&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
@@ -1130,12 +1130,6 @@
         </mxCell>
         <mxCell id="WFPaXe83kJKe6NwwF2LC-58" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;订单状态&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="211" y="1459" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WFPaXe83kJKe6NwwF2LC-59" value="价格" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="355" y="1664" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WFPaXe83kJKe6NwwF2LC-60" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;添加时间&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1602" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WFPaXe83kJKe6NwwF2LC-61" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户ID&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="323" y="1487" width="100" height="40" as="geometry" />
@@ -1168,18 +1162,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="1668" as="sourcePoint" />
             <mxPoint x="301" y="1539" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WFPaXe83kJKe6NwwF2LC-67" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WFPaXe83kJKe6NwwF2LC-51" target="WFPaXe83kJKe6NwwF2LC-60">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="1678" as="sourcePoint" />
-            <mxPoint x="311" y="1549" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WFPaXe83kJKe6NwwF2LC-68" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WFPaXe83kJKe6NwwF2LC-51" target="WFPaXe83kJKe6NwwF2LC-59">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="1688" as="sourcePoint" />
-            <mxPoint x="321" y="1559" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WFPaXe83kJKe6NwwF2LC-69" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WFPaXe83kJKe6NwwF2LC-51" target="WFPaXe83kJKe6NwwF2LC-54">
