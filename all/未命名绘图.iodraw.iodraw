@@ -238,11 +238,14 @@
         <mxCell id="9oj2KG8hPA-rcpbRC3VP-9" value="密码是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="250" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="9oj2KG8hPA-rcpbRC3VP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9oj2KG8hPA-rcpbRC3VP-10" target="9oj2KG8hPA-rcpbRC3VP-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9oj2KG8hPA-rcpbRC3VP-10" value="账号检查成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="360" width="90" height="50" as="geometry" />
+          <mxGeometry x="290" y="350" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9oj2KG8hPA-rcpbRC3VP-11" value="密码检查成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="480" width="90" height="50" as="geometry" />
+          <mxGeometry x="290" y="460" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9oj2KG8hPA-rcpbRC3VP-12" value="账号密码是否匹配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="560" width="100" height="50" as="geometry" />
