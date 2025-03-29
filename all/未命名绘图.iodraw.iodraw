@@ -238,7 +238,7 @@
         <mxCell id="9oj2KG8hPA-rcpbRC3VP-12" value="账号密码是否匹配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="560" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9oj2KG8hPA-rcpbRC3VP-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9oj2KG8hPA-rcpbRC3VP-13" value="提示输入账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9oj2KG8hPA-rcpbRC3VP-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
