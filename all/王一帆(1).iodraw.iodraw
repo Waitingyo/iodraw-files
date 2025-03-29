@@ -248,7 +248,10 @@
           <mxGeometry x="295" y="418" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GlPwn99mA8C_cznekKT2-8" value="打开登录界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="278" y="138" width="120" height="60" as="geometry" />
+          <mxGeometry x="295" y="145" width="92" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="GlPwn99mA8C_cznekKT2-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="538" y="70" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
