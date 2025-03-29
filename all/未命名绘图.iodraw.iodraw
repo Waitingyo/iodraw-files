@@ -33,7 +33,7 @@
           <mxGeometry x="290" y="130" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dpbgBFVJ-o_VTAaAmDpm-5" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="260" width="90" height="40" as="geometry" />
+          <mxGeometry x="295" y="250" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dpbgBFVJ-o_VTAaAmDpm-6" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="110" width="80" height="50" as="geometry" />
