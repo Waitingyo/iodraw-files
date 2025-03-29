@@ -26,7 +26,7 @@
           <mxGeometry x="600" y="70" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dpbgBFVJ-o_VTAaAmDpm-8" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dpbgBFVJ-o_VTAaAmDpm-9" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="290" width="80" height="50" as="geometry" />
