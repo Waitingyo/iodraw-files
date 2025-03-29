@@ -31,10 +31,10 @@
         <mxCell id="dpbgBFVJ-o_VTAaAmDpm-9" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="270" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dpbgBFVJ-o_VTAaAmDpm-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dpbgBFVJ-o_VTAaAmDpm-10" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="195" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dpbgBFVJ-o_VTAaAmDpm-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dpbgBFVJ-o_VTAaAmDpm-12" value="商品类别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="190" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
