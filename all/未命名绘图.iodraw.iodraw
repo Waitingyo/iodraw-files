@@ -82,6 +82,9 @@
             <mxPoint x="440" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dpbgBFVJ-o_VTAaAmDpm-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dpbgBFVJ-o_VTAaAmDpm-9" target="dpbgBFVJ-o_VTAaAmDpm-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
