@@ -19,14 +19,6 @@
         <mxCell id="dpbgBFVJ-o_VTAaAmDpm-2" value="填写" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="150" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dpbgBFVJ-o_VTAaAmDpm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dpbgBFVJ-o_VTAaAmDpm-3" target="dpbgBFVJ-o_VTAaAmDpm-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dpbgBFVJ-o_VTAaAmDpm-34" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dpbgBFVJ-o_VTAaAmDpm-16">
-          <mxGeometry x="0.0182" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dpbgBFVJ-o_VTAaAmDpm-3" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="250" width="80" height="40" as="geometry" />
         </mxCell>
@@ -75,7 +67,7 @@
         <mxCell id="dpbgBFVJ-o_VTAaAmDpm-12" value="商品类别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="737" y="200" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dpbgBFVJ-o_VTAaAmDpm-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="dpbgBFVJ-o_VTAaAmDpm-33" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dpbgBFVJ-o_VTAaAmDpm-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="330" as="sourcePoint" />
             <mxPoint x="440" y="280" as="targetPoint" />
