@@ -173,7 +173,7 @@
         <mxCell id="TVtYEQzRNpIY_FKzsqsI-3" value="注册信息验证是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TVtYEQzRNpIY_FKzsqsI-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TVtYEQzRNpIY_FKzsqsI-4" value="注册成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TVtYEQzRNpIY_FKzsqsI-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
