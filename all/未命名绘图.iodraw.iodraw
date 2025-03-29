@@ -230,7 +230,7 @@
           <mxGeometry x="300" y="270" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9oj2KG8hPA-rcpbRC3VP-10" value="账号检查成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="350" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="380" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9oj2KG8hPA-rcpbRC3VP-11" value="密码检查成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="460" width="80" height="80" as="geometry" />
