@@ -220,12 +220,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9oj2KG8hPA-rcpbRC3VP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9oj2KG8hPA-rcpbRC3VP-7" target="9oj2KG8hPA-rcpbRC3VP-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="353" y="90" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="GlPwn99mA8C_cznekKT2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9oj2KG8hPA-rcpbRC3VP-7" target="9oj2KG8hPA-rcpbRC3VP-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9oj2KG8hPA-rcpbRC3VP-7" value="打开登录界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="50" width="110" height="40" as="geometry" />
