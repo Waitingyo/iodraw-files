@@ -250,7 +250,7 @@
           <mxGeometry x="292.5" y="534" width="78" height="46" as="geometry" />
         </mxCell>
         <mxCell id="GlPwn99mA8C_cznekKT2-22" value="账号密码是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="373.5" y="307" width="116" height="80" as="geometry" />
+          <mxGeometry x="373.5" y="325" width="116" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
