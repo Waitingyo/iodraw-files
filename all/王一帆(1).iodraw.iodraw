@@ -276,6 +276,11 @@
         <mxCell id="9oj2KG8hPA-rcpbRC3VP-12" value="账号密码是否匹配" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="570" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="GlPwn99mA8C_cznekKT2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9oj2KG8hPA-rcpbRC3VP-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="337.2000427246094" y="98.40000915527344" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9oj2KG8hPA-rcpbRC3VP-13" value="账号错误" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="150" width="100" height="40" as="geometry" />
         </mxCell>
