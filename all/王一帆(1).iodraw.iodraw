@@ -235,14 +235,14 @@
         <mxCell id="GlPwn99mA8C_cznekKT2-8" value="打开登录界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="145" width="92" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="GlPwn99mA8C_cznekKT2-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GlPwn99mA8C_cznekKT2-10" value="输入账号密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="288" y="224" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GlPwn99mA8C_cznekKT2-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="321" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GlPwn99mA8C_cznekKT2-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="404" y="436" width="120" height="60" as="geometry" />
+          <mxGeometry x="295" y="407" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
