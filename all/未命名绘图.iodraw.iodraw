@@ -179,9 +179,10 @@
         <mxCell id="TVtYEQzRNpIY_FKzsqsI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVtYEQzRNpIY_FKzsqsI-3" target="TVtYEQzRNpIY_FKzsqsI-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TVtYEQzRNpIY_FKzsqsI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TVtYEQzRNpIY_FKzsqsI-3">
+        <mxCell id="TVtYEQzRNpIY_FKzsqsI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="60" as="targetPoint" />
+            <mxPoint x="540" y="50" as="targetPoint" />
+            <mxPoint x="490" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TVtYEQzRNpIY_FKzsqsI-3" value="注册信息验证是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
