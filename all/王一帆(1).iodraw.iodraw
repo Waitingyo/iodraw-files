@@ -238,7 +238,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GlPwn99mA8C_cznekKT2-12" value="登录成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="303.5" y="455" width="81" height="42" as="geometry" />
+          <mxGeometry x="298" y="440" width="81" height="42" as="geometry" />
         </mxCell>
         <mxCell id="GlPwn99mA8C_cznekKT2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GlPwn99mA8C_cznekKT2-13" target="GlPwn99mA8C_cznekKT2-8">
           <mxGeometry relative="1" as="geometry" />
@@ -247,7 +247,7 @@
           <mxGeometry x="303.5" y="82" width="70" height="41" as="geometry" />
         </mxCell>
         <mxCell id="GlPwn99mA8C_cznekKT2-14" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="292.5" y="534" width="78" height="46" as="geometry" />
+          <mxGeometry x="299.5" y="534" width="78" height="46" as="geometry" />
         </mxCell>
         <mxCell id="GlPwn99mA8C_cznekKT2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GlPwn99mA8C_cznekKT2-22" target="GlPwn99mA8C_cznekKT2-12">
           <mxGeometry relative="1" as="geometry" />
