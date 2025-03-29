@@ -249,8 +249,11 @@
         <mxCell id="GlPwn99mA8C_cznekKT2-14" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="292.5" y="534" width="78" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="GlPwn99mA8C_cznekKT2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GlPwn99mA8C_cznekKT2-22" target="GlPwn99mA8C_cznekKT2-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GlPwn99mA8C_cznekKT2-22" value="账号密码是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280.5" y="328" width="110.5" height="60" as="geometry" />
+          <mxGeometry x="283.25" y="328" width="110.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
