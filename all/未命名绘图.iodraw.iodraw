@@ -242,13 +242,13 @@
           <mxGeometry x="570" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9oj2KG8hPA-rcpbRC3VP-14" value="提示输入密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="270" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9oj2KG8hPA-rcpbRC3VP-15" value="提示账号不存在" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="380" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9oj2KG8hPA-rcpbRC3VP-16" value="提示密码错误" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="540" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9oj2KG8hPA-rcpbRC3VP-17" value="登录成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="690" width="110" height="40" as="geometry" />
