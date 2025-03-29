@@ -202,6 +202,15 @@
         <mxCell id="TVtYEQzRNpIY_FKzsqsI-6" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="362.5" y="530" width="115" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="TVtYEQzRNpIY_FKzsqsI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TVtYEQzRNpIY_FKzsqsI-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="60" as="targetPoint" />
+            <mxPoint x="470" y="210" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="521" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
