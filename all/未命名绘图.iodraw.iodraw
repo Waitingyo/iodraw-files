@@ -250,6 +250,9 @@
         <mxCell id="9oj2KG8hPA-rcpbRC3VP-11" value="密码检查成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="460" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="9oj2KG8hPA-rcpbRC3VP-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9oj2KG8hPA-rcpbRC3VP-12" target="9oj2KG8hPA-rcpbRC3VP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9oj2KG8hPA-rcpbRC3VP-12" value="账号密码是否匹配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="570" width="100" height="50" as="geometry" />
         </mxCell>
@@ -266,10 +269,7 @@
           <mxGeometry x="570" y="540" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9oj2KG8hPA-rcpbRC3VP-17" value="登录成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="690" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9oj2KG8hPA-rcpbRC3VP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.429;entryY=0.11;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9oj2KG8hPA-rcpbRC3VP-12" target="9oj2KG8hPA-rcpbRC3VP-17">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="280" y="690" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
