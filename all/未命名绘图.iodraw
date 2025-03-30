@@ -53,7 +53,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eYe9YHBdLNs5gwMNfMkt-22" value="订购" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="346" y="410" width="80" height="80" as="geometry" />
+          <mxGeometry x="346" y="450" width="64" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eYe9YHBdLNs5gwMNfMkt-23" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="240" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
