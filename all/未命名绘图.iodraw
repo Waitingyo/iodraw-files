@@ -73,8 +73,11 @@
         <mxCell id="eYe9YHBdLNs5gwMNfMkt-30" value="厂商" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="580" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eYe9YHBdLNs5gwMNfMkt-31" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eYe9YHBdLNs5gwMNfMkt-31" value="描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eYe9YHBdLNs5gwMNfMkt-32" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="570" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
