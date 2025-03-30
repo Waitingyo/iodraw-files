@@ -41,7 +41,7 @@
           <mxGeometry x="414" y="41.25" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="eYe9YHBdLNs5gwMNfMkt-15" value="地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="33.75" width="70" height="42.5" as="geometry" />
+          <mxGeometry x="520" y="35" width="70" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="eYe9YHBdLNs5gwMNfMkt-16" value="订购" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="240" width="60" height="40" as="geometry" />
@@ -187,7 +187,7 @@
             <mxPoint x="440" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eYe9YHBdLNs5gwMNfMkt-53" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="eYe9YHBdLNs5gwMNfMkt-53" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eYe9YHBdLNs5gwMNfMkt-9" target="eYe9YHBdLNs5gwMNfMkt-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="280" as="sourcePoint" />
             <mxPoint x="440" y="230" as="targetPoint" />
