@@ -29,7 +29,7 @@
           <mxGeometry x="340" y="340" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eYe9YHBdLNs5gwMNfMkt-11" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="510" width="86" height="40" as="geometry" />
+          <mxGeometry x="335" y="520" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eYe9YHBdLNs5gwMNfMkt-12" value="账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="70" width="80" height="40" as="geometry" />
@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eYe9YHBdLNs5gwMNfMkt-22" value="订购" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="346" y="450" width="64" height="40" as="geometry" />
+          <mxGeometry x="346" y="440" width="64" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eYe9YHBdLNs5gwMNfMkt-23" value="编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="280" width="70" height="40" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="300" y="595" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="eYe9YHBdLNs5gwMNfMkt-30" value="厂商" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="600" width="60" height="40" as="geometry" />
+          <mxGeometry x="395" y="600" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eYe9YHBdLNs5gwMNfMkt-31" value="描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="600" width="70" height="40" as="geometry" />
