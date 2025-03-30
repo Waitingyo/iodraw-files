@@ -26,7 +26,7 @@
           <mxGeometry x="340" y="120" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eYe9YHBdLNs5gwMNfMkt-10" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="340" width="86" height="40" as="geometry" />
+          <mxGeometry x="335" y="350" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eYe9YHBdLNs5gwMNfMkt-11" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="520" width="86" height="40" as="geometry" />
