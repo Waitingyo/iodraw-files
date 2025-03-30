@@ -26,10 +26,10 @@
           <mxGeometry x="340" y="120" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eYe9YHBdLNs5gwMNfMkt-10" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="340" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eYe9YHBdLNs5gwMNfMkt-11" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="510" width="86" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
