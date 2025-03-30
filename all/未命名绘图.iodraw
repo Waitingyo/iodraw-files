@@ -55,14 +55,14 @@
         <mxCell id="eYe9YHBdLNs5gwMNfMkt-22" value="订购" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="346" y="450" width="64" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eYe9YHBdLNs5gwMNfMkt-23" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eYe9YHBdLNs5gwMNfMkt-23" value="编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="280" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eYe9YHBdLNs5gwMNfMkt-24" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="370" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eYe9YHBdLNs5gwMNfMkt-25" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="380" width="120" height="80" as="geometry" />
+          <mxGeometry x="580" y="420" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
