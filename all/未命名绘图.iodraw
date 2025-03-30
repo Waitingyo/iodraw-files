@@ -65,10 +65,10 @@
           <mxGeometry x="470" y="400" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eYe9YHBdLNs5gwMNfMkt-28" value="名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="580" width="70" height="40" as="geometry" />
+          <mxGeometry x="190" y="600" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eYe9YHBdLNs5gwMNfMkt-29" value="价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="620" width="70" height="45" as="geometry" />
+          <mxGeometry x="300" y="595" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="eYe9YHBdLNs5gwMNfMkt-30" value="厂商" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="620" width="60" height="40" as="geometry" />
