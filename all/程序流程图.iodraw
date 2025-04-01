@@ -251,6 +251,18 @@
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1046" value="数据接收，处理程序流程图" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="600" width="203" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="eJh1_cIZ2Jd9UAOWSuq7-1" value="" style="endArrow=classic;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontColor=none;align=center;exitX=0.004;exitY=0.47;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;fontStyle=0" edge="1" parent="1" source="HZyqP8lNtJwYMgKbey4X-1006">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="107" y="472" as="sourcePoint" />
+            <mxPoint x="100" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="62" y="472" />
+              <mxPoint x="62" y="385" />
+              <mxPoint x="63" y="385" />
+              <mxPoint x="63" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
